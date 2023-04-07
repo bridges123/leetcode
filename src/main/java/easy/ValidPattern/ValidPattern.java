@@ -1,4 +1,4 @@
-package easy;
+package easy.ValidPattern;
 
 import java.util.Stack;
 
