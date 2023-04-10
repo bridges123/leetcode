@@ -25,6 +25,4 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 ```
 
 Constraints:
-```
--2^31 <= x <= 2^31 - 1 
-```
+* ```-2^31 <= x <= 2^31 - 1``` 
